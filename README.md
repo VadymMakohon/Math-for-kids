@@ -3,6 +3,9 @@ Math 4 Kids is an engaging web application designed to help children practice ba
 
 ## Preview ![preview](https://github.com/user-attachments/assets/c26c9c78-0d43-49e0-b441-9327cc3ec466)
 
+## Sample Website
+A live demo is already available via this [link](https://vadymmakohon.github.io/Math-for-kids/)
+
 ## Features
 - Addition, Subtraction, Multiplication, and Division modes.
 - Generates new problems each time to keep learning fresh.
