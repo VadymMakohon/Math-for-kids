@@ -1,7 +1,7 @@
 # Math-for-kids
 Math 4 Kids is an engaging web application designed to help children practice basic arithmetic operations in a fun and colorful way. The app provides an interactive learning experience with vibrant visuals, instant feedback, and a user-friendly interface.
 
-## Preview 
+## Preview ![preview](https://github.com/user-attachments/assets/c26c9c78-0d43-49e0-b441-9327cc3ec466)
 
 ## Features
 - Addition, Subtraction, Multiplication, and Division modes.
@@ -16,6 +16,12 @@ Math 4 Kids is an engaging web application designed to help children practice ba
 - Select the correct answer from the three color-coded options.
 - Correct Answer: Nothing happens, move to the next problem.
 - Wrong Answer: Audio feedback (wrong.mp3) plays.
+
+## Technologies Used
+- HTML5: Structure and layout.
+- CSS3: Styling and responsive design.
+- JavaScript: Interactive functionality and randomized equations.
+- Audio: Feedback mechanism for incorrect answers.
 
 ## 📜 License
 
