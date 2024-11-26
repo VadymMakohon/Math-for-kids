@@ -63,5 +63,3 @@ option3.addEventListener("click", function(){
 });
 
 generate_equation()
-
-
