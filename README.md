@@ -34,6 +34,6 @@ This repository is for educational purposes only and has an MIT License
 
 Give a ⭐ if you like these projects!
 
-# Contributors
+# 👤Contributors
 
 - [Vadym Makohon](https://github.com/VadymMakohon)
